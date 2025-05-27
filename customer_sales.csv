@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,Location,Product,Category,Quantity,Price,Total,Date
+1001,Male,35,New York,Laptop,Electronics,1,800,800,15-01-2024
+1002,Female,28,California,Smartphone,Electronics,2,500,1000,16-01-2024
+1003,Male,42,Texas,Shirt,Apparel,3,30,90,17-01-2024
+1004,Female,31,Florida,Tablet,Electronics,1,300,300,01-02-2024
+1005,Male,26,Illinois,T-Shirt,Apparel,2,25,50,03-02-2024
+1006,Female,45,California,Shoes,Footwear,1,120,120,05-02-2024
+1007,Male,39,Texas,Headphones,Electronics,2,60,120,10-03-2024
+1008,Female,33,New York,Jeans,Apparel,1,40,40,12-03-2024
+1009,Male,48,Florida,Smartwatch,Electronics,1,150,150,15-03-2024
+1010,Female,29,Illinois,Dress,Apparel,2,80,160,01-04-2024
+1011,Male,36,Texas,Laptop,Electronics,1,850,850,04-04-2024
+1012,Female,24,New York,Sneakers,Footwear,1,90,90,06-04-2024
+1013,Male,50,California,Backpack,Accessories,1,45,45,01-05-2024
+1014,Female,30,Florida,Watch,Accessories,1,110,110,02-05-2024
+1015,Male,38,Illinois,Monitor,Electronics,1,200,200,03-05-2024
+1016,Female,27,Texas,Tunic,Apparel,2,35,70,01-06-2024
+1017,Male,34,California,Camera,Electronics,1,600,600,03-06-2024
+1018,Female,32,New York,Sandals,Footwear,1,60,60,04-06-2024
+1019,Male,40,Florida,Laptop,Electronics,1,820,820,10-06-2024
+1020,Female,25,Illinois,Handbag,Accessories,1,95,95,12-06-2024
